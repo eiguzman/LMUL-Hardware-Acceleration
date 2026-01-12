@@ -1,0 +1,113 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Wed Nov 26 10:12:07 UTC 2025.
+#
+# This is license NODELOCKED to HOSTID=8e510dea;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Wed Nov 26 10:12:07 UTC 2025
+INCREMENT ISE_WebPACK xilinxd 2026.11 permanent uncounted \
+C244F644FEF7 \
+VENDOR_STRING=eiguzman@ucsd.edu,ISE_WebPACK,software,permanent,_213473201_0_0_278 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=26-Nov-2025 TS_OK
+#
+# This is a permanent license generated on Wed Nov 26 10:12:07 UTC 2025
+INCREMENT ISE_Embedded_Edition xilinxd 2026.11 permanent uncounted \
+CFC0FB3D044E \
+VENDOR_STRING=eiguzman@ucsd.edu,ISE_Embedded_Edition,software,permanent,_213473201_0_0_562 \
+HOSTID=DISK_SERIAL_NUM=8e510dea ISSUER="Xilinx Inc" \
+START=26-Nov-2025 TS_OK
+#
+# This is a permanent license generated on Wed Nov 26 10:12:07 UTC 2025
+INCREMENT AIEMLbuild xilinxd 2026.11 permanent uncounted 24B04E81ED33 \
+VENDOR_STRING=eiguzman@ucsd.edu,AIEMLbuild,software,permanent,_213473201_0_0_261 \
+HOSTID=DISK_SERIAL_NUM=8e510dea ISSUER="Xilinx Inc" \
+START=26-Nov-2025 TS_OK
+#
+# This is a permanent license generated on Wed Nov 26 10:12:07 UTC 2025
+INCREMENT AIEMLsim xilinxd 2026.11 permanent uncounted F59918990238 \
+VENDOR_STRING=eiguzman@ucsd.edu,AIEMLsim,software,permanent,_213473201_0_0_027 \
+HOSTID=DISK_SERIAL_NUM=8e510dea ISSUER="Xilinx Inc" \
+START=26-Nov-2025 TS_OK
+#
+# This is a permanent license generated on Wed Nov 26 10:12:07 UTC 2025
+INCREMENT AIEbuild xilinxd 2026.11 permanent uncounted 3743A0DEA1B3 \
+VENDOR_STRING=eiguzman@ucsd.edu,AIEbuild,software,permanent,_213473201_0_0_865 \
+HOSTID=DISK_SERIAL_NUM=8e510dea ISSUER="Xilinx Inc" \
+START=26-Nov-2025 TS_OK
+#
+# This is a permanent license generated on Wed Nov 26 10:12:07 UTC 2025
+INCREMENT AIEsim xilinxd 2026.11 permanent uncounted 8E2F284C83C7 \
+VENDOR_STRING=eiguzman@ucsd.edu,AIEsim,software,permanent,_213473201_0_0_721 \
+HOSTID=DISK_SERIAL_NUM=8e510dea ISSUER="Xilinx Inc" \
+START=26-Nov-2025 TS_OK
+#
+# This is a permanent license generated on Wed Nov 26 10:12:07 UTC 2025
+INCREMENT MEbuild xilinxd 2026.11 permanent uncounted 5A16F3C85C36 \
+VENDOR_STRING=eiguzman@ucsd.edu,MEbuild,software,permanent,_213473201_0_0_401 \
+HOSTID=DISK_SERIAL_NUM=8e510dea ISSUER="Xilinx Inc" \
+START=26-Nov-2025 TS_OK
+#
+# This is a permanent license generated on Wed Nov 26 10:12:07 UTC 2025
+INCREMENT MEsim xilinxd 2026.11 permanent uncounted F7C45B5E379A \
+VENDOR_STRING=eiguzman@ucsd.edu,MEsim,software,permanent,_213473201_0_0_528 \
+HOSTID=DISK_SERIAL_NUM=8e510dea ISSUER="Xilinx Inc" \
+START=26-Nov-2025 TS_OK
+#
+# This is a permanent license generated on Wed Nov 26 10:12:07 UTC 2025
+INCREMENT AIEMLv2sim xilinxd 2026.11 permanent uncounted 0B277E507EB2 \
+VENDOR_STRING=eiguzman@ucsd.edu,AIEMLv2sim,software,permanent,_213473201_0_0_429 \
+HOSTID=DISK_SERIAL_NUM=8e510dea ISSUER="Xilinx Inc" \
+START=26-Nov-2025 TS_OK
+#
+# This is a permanent license generated on Wed Nov 26 10:12:07 UTC 2025
+INCREMENT AIEMLv2build xilinxd 2026.11 permanent uncounted \
+A2F74946573F \
+VENDOR_STRING=eiguzman@ucsd.edu,AIEMLv2build,software,permanent,_213473201_0_0_528 \
+HOSTID=DISK_SERIAL_NUM=8e510dea ISSUER="Xilinx Inc" \
+START=26-Nov-2025 TS_OK
+#
+# This is a permanent license generated on Wed Nov 26 10:12:07 UTC 2025
+INCREMENT Embedded_SDK xilinxd 2026.11 permanent uncounted \
+0911F538FB81 \
+VENDOR_STRING=eiguzman@ucsd.edu,Embedded_SDK,software,permanent,_213473201_0_0_607 \
+HOSTID=DISK_SERIAL_NUM=8e510dea ISSUER="Xilinx Inc" \
+START=26-Nov-2025 TS_OK
+#
+# This is a permanent license generated on Wed Nov 26 10:12:07 UTC 2025
+INCREMENT Vitis_HLS xilinxd 2026.11 permanent uncounted 5B605647C7C4 \
+VENDOR_STRING=eiguzman@ucsd.edu,Vitis_HLS,software,permanent,_213473201_0_0_705 \
+HOSTID=DISK_SERIAL_NUM=8e510dea ISSUER="Xilinx Inc" \
+START=26-Nov-2025 TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_WebPACK xilinxd 2026.11 897DC88F1276 COMPONENTS="SDK \
+WebPACK XC7Z010 XC7Z030 xps_tdp XC7Z020 PlanAhead ChipscopePro \
+ChipScopePro_SIOTK HLS" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_Embedded_Edition xilinxd 2026.11 FB4C4F8E261D \
+COMPONENTS="ChipScopePro_SIOTK ChipscopePro ISE XPS ISIM \
+PlanAhead SDK" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE Embedded_SDK xilinxd 2026.11 B5C8B58FE6C3 COMPONENTS=SDK \
+OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
