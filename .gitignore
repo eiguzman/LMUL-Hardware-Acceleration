@@ -45,3 +45,5 @@ lib/*.lib
 synthesis/out/*
 !synthesis/out/.gitkeep
 !synthesis/out/README.md
+Vivado/LMUL_Hardware/vivado.jou
+Vivado/LMUL_Hardware/vivado.log

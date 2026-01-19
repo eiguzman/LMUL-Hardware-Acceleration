@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/edgar/OneDrive/Documents/GitHub/LMUL-Hardware-Acceleration-Fork/Vivado/LMUL_Hardware/LMUL_Hardware.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/edgar/OneDrive/Documents/GitHub/LMUL-Hardware-Acceleration-Fork/Vivado/LMUL_Hardware/LMUL_Hardware.srcs/sim_1/new/tb_lmul.v,1768805248,verilog,,,,tb_lmul,,,../../../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/edgar/OneDrive/Documents/GitHub/LMUL-Hardware-Acceleration-Fork/Vivado/LMUL_Hardware/LMUL_Hardware.srcs/sources_1/new/lmul_bf16.v,1768794288,verilog,,C:/Users/edgar/OneDrive/Documents/GitHub/LMUL-Hardware-Acceleration-Fork/Vivado/LMUL_Hardware/LMUL_Hardware.srcs/sim_1/new/tb_lmul.v,,lmul_bf16,,,../../../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/edgar/OneDrive/Documents/GitHub/LMUL-Hardware-Acceleration-Fork/Vivado/LMUL_Hardware/LMUL_Hardware.srcs/sources_1/new/top_lmul.v,1768793181,verilog,,C:/Users/edgar/OneDrive/Documents/GitHub/LMUL-Hardware-Acceleration-Fork/Vivado/LMUL_Hardware/LMUL_Hardware.srcs/sources_1/new/lmul_bf16.v,,top_lmul,,,../../../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

@@ -1,8 +1,0 @@
-0.7
-2020.2
-Nov 14 2025
-19:37:27
-C:/Users/edgar/OneDrive/Documents/Vivado/Lmul_speed_test/Lmul_speed_test/Lmul_speed_test.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
-C:/Users/edgar/OneDrive/Documents/Vivado/Lmul_speed_test/Lmul_speed_test/lmul_bf16.v,1764742296,verilog,,C:/Users/edgar/OneDrive/Documents/Vivado/Lmul_speed_test/Lmul_speed_test/top_lmul.v,,lmul_bf16,,,../../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
-C:/Users/edgar/OneDrive/Documents/Vivado/Lmul_speed_test/Lmul_speed_test/tb_lmul.v,1764744256,verilog,,,,tb_lmul,,,../../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
-C:/Users/edgar/OneDrive/Documents/Vivado/Lmul_speed_test/Lmul_speed_test/top_lmul.v,1764742400,verilog,,C:/Users/edgar/OneDrive/Documents/Vivado/Lmul_speed_test/Lmul_speed_test/tb_lmul.v,,top_lmul,,,../../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
